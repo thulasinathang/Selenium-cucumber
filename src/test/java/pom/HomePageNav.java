@@ -59,6 +59,6 @@ public class HomePageNav {
 		driver.switchTo().window(winHandle.get(1));
 
 	}
-
+// code end
 }
 
