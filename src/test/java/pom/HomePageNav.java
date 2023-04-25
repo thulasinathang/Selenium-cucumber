@@ -57,6 +57,7 @@ public class HomePageNav {
 		
 		ArrayList<String> winHandle = new ArrayList<String>(driver.getWindowHandles());
 		driver.switchTo().window(winHandle.get(1));
+                System.out.println("hello);
 
 	}
 // code end
